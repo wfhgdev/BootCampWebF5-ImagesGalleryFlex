@@ -4,7 +4,7 @@ Galería de imágenes responsive construida con **HTML5 y CSS3 Flexbox**.
 
 ## 🔗 Github Pages
 
-👉 [Ver en GitHub Pages](https://tu-usuario.github.io/image-gallery/)
+👉 [Ver en GitHub Pages](https://wfhgdev.github.io/BootCampWebF5-ImagesGalleryFlex/)
 
 
 ## 📁 Estructura de archivos

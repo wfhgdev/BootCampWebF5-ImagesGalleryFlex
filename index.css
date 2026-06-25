@@ -49,14 +49,12 @@ h1 {
 
 @media (min-width: 600px) {
   .card {
-    /* 2 columnas: (100% - 1 gap de 16px) / 2 */
     flex: 1 1 calc(50% - 8px);
   }
 }
 
 @media (min-width: 900px) {
   .card {
-    /* 3 columnas: (100% - 2 gaps de 16px) / 3 */
     flex: 1 1 calc(33.333% - 11px);
   }
 }
